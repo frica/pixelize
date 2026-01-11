@@ -9,6 +9,12 @@ A Python tool that applies a stylish pixelation effect to your images. It downsi
 - **Customizable**: Configure input/output directories and pixelation sizes via the command line.
 - **Cross-Platform**: Works seamlessly on Windows, macOS, and Linux.
 
+## Example
+
+| Original | Pixelated (64px) |
+| :---: | :---: |
+| ![Original](example/hokusai-the-great-wave-off-kanagawa.jpg) | ![Pixelated](example/hokusai-the-great-wave-off-kanagawa_64_pixelated.png) |
+
 ## Prerequisites
 
 - [uv](https://github.com/astral-sh/uv) (Fast Python package installer and resolver)
