@@ -1,3 +1,5 @@
+_Note: This repository has been moved to [Codeberg](https://codeberg.org/frica/pixelize)_.
+
 # Pixelize
 
 A Python tool that applies a stylish pixelation effect to your images. It downsizes images to specific dimensions and then scales them back up using nearest-neighbor interpolation to create a retro, blocky look.
